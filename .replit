@@ -1,0 +1,4 @@
+run = "cd quaesta && npm start"
+
+[nix]
+channel = "stable-21_11"
